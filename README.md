@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=git" height="45"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
-  <img src="https://skillicons.dev/icons?i=linux" height="45"/>
+
 
 </p>
 
