@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm mrbiscuitoliva</h1>
-<h3 align="center">Solidity Developer | Smart Contract Security | Full-Stack Developer | Data Science
+<h3 align="center">Solidity Developer | Smart Contract Security | Full-Stack Developer | Data Science  |  Lifelong Learner
 </h3>
 
 
