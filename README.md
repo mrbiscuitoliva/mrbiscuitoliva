@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm mrbiscuitoliva</h1>
-<h3 align="center">Solidity Developer | Smart Contract Security | Full-Stack Developer | Data Science</h3>
+<h3 align="center">Solidity Developer | Smart Contract Security | Full-Stack Developer | Data Science
+</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=flat-square" alt="profile views"/>
-</p>
-
----
 
 ## 🚀 About Me  
 - 💻 **Solidity Developer** — building secure smart contracts & Web3 dApps  
@@ -38,8 +34,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="45"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="45"/>
   <img src="https://skillicons.dev/icons?i=mongodb" height="45"/>
-
-
 
 
 <p align="center">
