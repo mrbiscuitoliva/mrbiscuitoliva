@@ -3,13 +3,13 @@
 </h3>
 
 
-## 🚀 About Me  
-- 💻 **Solidity Developer** — building secure smart contracts & Web3 dApps  
-- 🔐 **Smart Contract Security Researcher**  
-- 🌐 **Full-Stack Web Developer** (APIs, dashboards, automation tools)  
-- 📊 **Data Science** (Python, R, Excel, SPSS)  
-- 🌱 Improving: Web3 Security, Trading Algorithms, Backend Systems  
-- 🤝 Open to collaborations in **Web3, security, trading systems, or data-driven projects**
+##  About Me  
+-  **Solidity Developer** - building secure smart contracts & Web3 dApps  
+-  **Smart Contract Security Researcher**  
+-  **Full-Stack Web Developer** (APIs, dashboards, automation tools)  
+-  **Data Science** (Python, R, Excel, SPSS)  
+-  Improving: Web3 Security, Trading Algorithms, Backend Systems  
+-  Open to collaborations in **Web3, security, trading systems, or data-driven projects**
 
 ---
 
